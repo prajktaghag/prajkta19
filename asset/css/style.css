@@ -1,0 +1,125 @@
+*{
+	
+	box-sizing:border-box;
+}
+
+
+
+.cname{
+	height:150px;
+	background-color:#5D10AB;
+	text-align:center;
+	padding-top:30px;
+	font-size:40px;
+	color:#D3BCEA;
+	font-family: 'Train One', cursive;
+}
+
+.menu{
+	background-color:#5D10AB;
+	height:50px;
+	margin-top:3px;
+	text-align:center;
+	padding-top:12px;
+	font-size:20px;
+	
+	
+	
+}
+.menu a{
+	
+text-decoration:none;
+color:#D3BCEA;
+display:block;
+}
+
+.banner{
+	height:900px;
+	margin-top:4px;
+	background-image:url('../photo/banner.jpeg');
+	background-repeat:norepeat;
+	background-attachment:fixed;
+	text-align:center;
+	font-size:40px;
+	font-weight:bold;
+	padding-top:40px;
+	color:#EDE7F3;
+	font-family: 'Train One', cursive;
+	
+}
+.section_banner{
+	
+	height:200px;
+	background-color:#5D10AB;
+	margin-top:5px;
+	font-size:20px;
+	font-weight:bold;
+	text-align:centre;
+	padding-top:15px;
+    color:#EDE7F3;
+    box-shadow:5px 5px rbg(215,218,210);
+	margin-bottom:10px;
+}
+.ab_content{
+	
+	
+	text-align:justify;
+}
+
+.footer{
+	height:180px;
+	background-color:#5D10AB;
+	margin-top:5px;
+	font-size:30px;
+	font-weight:bold;
+	text-align:center;
+	padding-top:10px;
+    color:#EDE7F3;
+   
+	margin-bottom:10px;
+}
+ 
+ p{
+	text-align:centre;
+color:white;
+}
+/*--------------------------------ABOUT US STARTS--------------------------*/
+.content{
+	height:900px;
+	background-color:#5D10AB;
+	margin-top:5px;
+	font-size:20px;
+	font-weight:bold;
+	text-align:center;
+	padding-top:10px;
+    color:#EDE7F3;
+   
+	margin-bottom:10px;
+	
+	
+}
+/*------------------------------our project starts--------------------*/
+.project{
+	height:1500px;
+	background-color:#5D10AB;
+	margin-top:5px;
+	font-size:20px;
+	font-weight:bold;
+	text-align:center;
+	padding-top:10px;
+    color:#EDE7F3;
+   
+	margin-bottom:10px;
+	
+	
+}
+/*--------------------------------------------------contact starts--------------*/
+.contact{
+	height:200px;
+	background-color:#5D10AB;
+	margin-top:5px;
+	font-size:20px;
+	font-weight:bold;
+	text-align:center;
+	color:#EDE7F3;
+}
